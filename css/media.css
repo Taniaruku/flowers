@@ -1,0 +1,317 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*banner start*/
+.banner{
+	padding: 70px 0 140px;
+	background-color: #000000 ;
+
+
+}
+.b_text{}
+.b_p1{
+	margin-top: 120px;
+	font-family: 'krub' sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #FFFFFF;
+
+	line-height: 16px;
+
+}
+.b_h1{
+	margin: 10px 0 19px;
+	font-family: 'Playfair Display'serif;
+	font-size: 40px;
+	font-weight: 700;
+	color: #FFFFFF;
+	line-height:62px;
+}
+
+.b_p2{
+	font-family: 'krub' sans-serif;
+	font-weight: 400;
+	font-size: 11px;
+	color: #E1E1E1;
+
+	line-height: 16px;
+}
+.b_btn{
+	margin-top: 15px; 
+	width: 105px;
+	height: 29px;
+	font-size: 10px;
+	border-radius: 29px;
+    background-color: #F868DE;
+
+	padding: 5px 5px;
+}
+.b_img{}
+
+
+
+.b_img img{}
+
+.s_img{
+
+}
+
+.st_img{
+	margin-top: -10px;
+	margin-left: 200px;
+}
+
+
+.s1_img{
+	margin-left: -40px;
+	color: #E585E2 !important;
+
+}
+.b1_img{
+	margin-top: -90px;
+	margin-left: -20px;
+
+}
+.b2_img{
+	margin-top: -180px;
+	margin-left: 220px;
+
+}
+.b3_img{
+	margin-top: -80px;
+	margin-left: 140px;
+
+}
+.s2_img{
+	margin-left: 130px;
+
+
+	color: #E585E2 !important;
+
+}
+
+.s3_img{
+	margin-top: -40px; 
+	margin-left: 370px;
+	
+
+/* banner end*/
+}
+
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  
+/*banner start*/
+.banner{
+	padding: 70px 0 140px;
+	background-color: #000000 ;
+
+
+}
+.b_text{}
+.b_p1{
+	margin-top: 70px;
+	font-family: 'krub' sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #FFFFFF;
+
+	line-height: 16px;
+
+}
+.b_h1{
+	margin: 10px 0 19px;
+	font-family: 'Playfair Display'serif;
+	font-size: 48px;
+	font-weight: 700;
+	color: #FFFFFF;
+	line-height:62px;
+}
+
+.b_p2{
+	font-family: 'krub' sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #E1E1E1;
+
+	line-height: 16px;
+}
+.b_btn{
+	margin-top: 15px; 
+	width: 105px;
+	height: 29px;
+	font-size: 10px;
+	border-radius: 29px;
+    background-color: #F868DE;
+
+	padding: 5px 5px;
+}
+.b_img{}
+
+
+
+.b_img img{}
+
+.s_img{
+
+}
+
+.st_img{
+	margin-top: -10px;
+	margin-left: 200px;
+}
+
+
+.s1_img{
+	margin-left: -40px;
+	color: #E585E2 !important;
+
+}
+.b1_img{
+	margin-top: -90px;
+	margin-left: -20px;
+
+}
+.b2_img{
+	margin-top: -190px;
+	margin-left: 220px;
+
+}
+.b3_img{
+	margin-top: -130px;
+	margin-left: 160px;
+
+}
+.s2_img{
+	margin-left: 150px;
+	color: #E585E2 !important;
+
+}
+
+.s3_img{
+	margin-top: -60px; 
+	margin-left: 370px;
+	
+
+/* banner end*/
+}
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*banner start*/
+.banner{
+	padding: 30px 0 150px;
+	background-color: #000000 ;
+
+
+}
+.b_text{}
+.b_p1{
+	margin-top: 40px;
+	font-family: 'krub' sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #FFFFFF;
+
+	line-height: 16px;
+
+}
+.b_h1{
+	margin: 10px 0 19px;
+	font-family: 'Playfair Display'serif;
+	font-size: 48px;
+	font-weight: 700;
+	color: #FFFFFF;
+	line-height:62px;
+}
+
+.b_p2{
+	font-family: 'krub' sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #E1E1E1;
+
+	line-height: 16px;
+}
+.b_btn{
+	margin-top: 15px; 
+	width: 105px;
+	height: 29px;
+	font-size: 10px;
+	border-radius: 29px;
+    background-color: #F868DE;
+
+	padding: 5px 5px;
+}
+.b_img{}
+
+
+
+.b_img img{}
+
+.s_img{
+
+}
+
+.st_img{
+	margin-top: -10px;
+	margin-left: 200px;
+}
+
+
+.s1_img{
+	margin-left: -40px;
+	color: #E585E2 !important;
+
+}
+.b1_img{
+	margin-top: -90px;
+	margin-left: -20px;
+
+}
+.b2_img{
+	margin-top: -180px;
+	margin-left: 220px;
+
+}
+.b3_img{
+	margin-top: -130px;
+	margin-left: 160px;
+
+}
+.s2_img{
+	margin-left: 150px;
+	color: #E585E2 !important;
+
+}
+
+.s3_img{
+	margin-top: -60px; 
+	margin-left: 370px;
+	
+
+/* banner end*/
+
+
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+  
+}
+/* Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+   
+}
